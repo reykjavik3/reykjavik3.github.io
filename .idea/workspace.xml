@@ -2,90 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b33ab42-d5e4-4f98-8262-73f265f18780" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2011-11-20-permutation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-02-12-hge.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-03-01-mozilla-file-tree.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-03-15-gecko-plugin.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-03-22-vba-knowledge.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-04-05-learn-python-practise.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-04-08-learn-python-practise.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-06-17-windows-skills.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-06-19-gecko-use-profile.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-04-18-windows-ui-notes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-05-19-when-your-exe-name-contains-install-or-setup.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-06-22-multi-included-source-file.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-10-26-namespace-with-a-static-variable.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-11-23-HFDP-Notes1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-12-03-HFDP-Notes2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-12-22-HFDP-Notes3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-02-19-excel-incommonuse.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-03-07-pits-in-windows.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-05-10-numbersign.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-05-24-virtualfunctions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-05-31-HFDP-Note4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-06-01-comsketch.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-06-29-acl-chapter2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-07-13-cppinit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-07-13-dllsearch.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-07-19-fiddlerwithwinhttp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-07-20-fiddlercontextmenu.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-08-01-deadlock.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-09-13-make-exe-small.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-10-09-path-after-rename.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-10-12-csdnresautocomment.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-12-21-vim-python-autocomplete.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-12-31-simplify-apk.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-01-19-printf.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-03-31-singleton-process.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-03-java-date.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-06-dp-sp-px.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-05-06-android-studio.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-05-10-emacs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-05-15-java-compare.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-05-27-svn-exception.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-14-win-discuz.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-06-23-vim-taglist-smali.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-08-fiddler-filter-by-device.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-25-mac.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-10-31-pits-in-vimscript.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-02-excel-sift.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-05-diff-between-gfm-and-redcarpet.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-15-java-object-finalize.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-19-vim-markdown-toc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-01-12-use-ubuntu-notes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-01-14-android-system-cache.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-01-16-build-zeal-for-mac-osx.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-02-04-switch-to-kramdown-from-redcarpet.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-02-10-am-start-user-parameter.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-04-07-how-to-use-github-effective.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-04-18-develop-nodejs-with-atom.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-04-20-determine-if-my-activities-foreground.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-21-enable-https-for-github-pages.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-06-28-vim-kramdown-tab.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-07-11-remove-https.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-08-03-add-outline-for-markdown-in-vim.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-08-30-java-guide-to-cpp-programmers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-09-20-java-output-ab.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-10-22-vim-markdown-toc-release.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-14-rtfsc-with-opengrok.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-08-20-java-auto-boxing-unboxing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-09-01-markdown-odd-skills.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-09-11-joins-in-sql.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-09-23-rtfsc-android-start.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-05-rtfsc-methods-and-meaning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-14-guanggoo-android-app.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-10-24-1024-poses.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-11-12-start-from-toast.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-03-tcp-connect-between-android-emulators.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-30-guanggoo-android-app-new-version.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-11-handler-looper-massagequeue.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-06-markdown-intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-25-a-stupid-bug.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-14-gitee-and-tapd.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-01-base64-bug.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-07-get-an-in-depth-understanding-of-base64.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-05-01-cdn-for-github-pages.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-05-04-paste-image-in-vim.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/blog/2020-05-29-up.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +18,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2011-11-04-basis.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-04-basis.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/blog/2020-05-29-up.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -110,10 +38,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2011-10-11-fibonacci.md">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-10-11-fibonacci.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
+              <first_editor relative-caret-position="-920">
                 <caret line="3" column="10" selection-start-line="3" selection-end-line="3" selection-end-column="10" />
               </first_editor>
               <second_editor />
@@ -121,8 +54,49 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2011-11-06-basis.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="108">
+                <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-06-basis.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="360">
+                <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/blog/2020-05-17-learn-more-study-less.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="5" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_wiki/mysql.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -181,6 +155,8 @@
         <option value="$PROJECT_DIR$/_data/links.yml" />
         <option value="$PROJECT_DIR$/_posts/2020-05-29.md" />
         <option value="$PROJECT_DIR$/_posts/2020-05-20-paste-image-in-test.md" />
+        <option value="$PROJECT_DIR$/_posts/blog/2020-05-29-成长" />
+        <option value="$PROJECT_DIR$/_posts/blog/2020-05-29-up.md" />
       </list>
     </option>
   </component>
@@ -215,6 +191,17 @@
               <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_wiki" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,18 +254,18 @@
       <option name="presentableId" value="Default" />
       <updated>1590730706677</updated>
       <workItem from="1590730708750" duration="118000" />
-      <workItem from="1590731472376" duration="10188000" />
+      <workItem from="1590731472376" duration="10940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10306000" />
+    <option name="totallyTimeSpent" value="11058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-223" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23482428" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17305644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -295,7 +282,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32953367" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.10569948" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1896373" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -323,98 +310,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/wiki.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/compress.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/categories.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-05-20-paste-image-in-test1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-05-25-export-data-from-excel-to-word-by-vba.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-05-25-gather-multi-excel-to-one-by-vba.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="18" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-02-24-gecko-embed.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_wiki/android-studio.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="960">
-            <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_wiki/chinese-copywriting-guidelines.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="28" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -652,17 +547,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-10-11-fibonacci.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-06-basis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2014-08-26-takephotos.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2014-08-30-aboutlife.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2019-01-20-my-2018.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2020-02-21-namebase-airdrop.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_wiki/android-studio.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="28">
+            <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_wiki/ollydbg.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_wiki/mysql.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-10-11-fibonacci.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-920">
             <caret line="3" column="10" selection-start-line="3" selection-end-line="3" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-11-04-basis.md">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2020-05-17-learn-more-study-less.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="5" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-04-basis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -670,11 +659,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011-11-06-basis.md">
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2020-05-29-up.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
         </state>
       </provider>
     </entry>
