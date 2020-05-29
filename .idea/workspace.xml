@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b33ab42-d5e4-4f98-8262-73f265f18780" name="Default Changelist" comment="" />
+    <list default="true" id="9b33ab42-d5e4-4f98-8262-73f265f18780" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_data/links.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/links.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/links.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
-              <caret line="47" lean-forward="true" selection-end-line="63" />
+            <state relative-caret-position="572">
+              <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -41,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="119" column="21" lean-forward="true" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="21" />
+            <state relative-caret-position="489">
+              <caret line="126" column="21" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -136,10 +138,10 @@
       <list>
         <option value="$PROJECT_DIR$/pages/about.md" />
         <option value="$PROJECT_DIR$/_posts/2020-05-03-blog-template-qna.md" />
-        <option value="$PROJECT_DIR$/_data/links.yml" />
         <option value="$PROJECT_DIR$/_data/social.yml" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_data/links.yml" />
       </list>
     </option>
   </component>
@@ -173,34 +175,7 @@
             <path>
               <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_wiki" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -256,18 +231,18 @@
       <option name="presentableId" value="Default" />
       <updated>1590730706677</updated>
       <workItem from="1590730708750" duration="118000" />
-      <workItem from="1590731472376" duration="8391000" />
+      <workItem from="1590731472376" duration="8778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8509000" />
+    <option name="totallyTimeSpent" value="8896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-223" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16613418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16613418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,7 +259,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32953367" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.10880829" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.265285" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -397,13 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/links.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="47" lean-forward="true" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_data/social.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -453,8 +421,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="119" column="21" lean-forward="true" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="21" />
+        <state relative-caret-position="489">
+          <caret line="126" column="21" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/links.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
         </state>
       </provider>
     </entry>
