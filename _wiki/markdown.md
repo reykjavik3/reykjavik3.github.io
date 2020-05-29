@@ -130,7 +130,7 @@ print 'Hello, World!'
 ![本站favicon](/favicon.ico)
 ```
 
-![本站favicon](/favicon.ico)
+![本站favicon](/favicon1.ico)
 
 ### 锚点
 
@@ -156,7 +156,7 @@ Hello, *world*{:#world}
 Hello, *world*{: style="color:red"} 
 ```
 
-![本站favicon](/favicon.ico){:.center}
+![本站favicon](/favicon1.ico){:.center}
 
 Hello, *world*{:#world} 
 
