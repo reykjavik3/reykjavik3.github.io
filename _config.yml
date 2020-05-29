@@ -116,14 +116,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: rekjavik
     repo: blog-comments
     oauth:
         client_id: f2021a006d98dabdf97a
         client_secret: 31bff94e77bec55978378a9a0c26208a243be4b2
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: rekjavik
     repo: blog-comments
     clientID: f2021a006d98dabdf97a
     clientSecret: 31bff94e77bec55978378a9a0c26208a243be4b2
