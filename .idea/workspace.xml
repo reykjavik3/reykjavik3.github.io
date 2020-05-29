@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b33ab42-d5e4-4f98-8262-73f265f18780" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="125" column="4" selection-start-line="125" selection-start-column="4" selection-end-line="125" selection-end-column="4" />
+            <state relative-caret-position="444">
+              <caret line="127" column="32" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -64,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/comments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="99" column="28" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="28" />
+            <state relative-caret-position="574">
+              <caret line="99" column="47" lean-forward="true" selection-start-line="99" selection-start-column="47" selection-end-line="99" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -121,7 +113,6 @@
       <find>关于</find>
       <find>website in site.data.social</find>
       <find>website</find>
-      <find>page</find>
       <find>about</find>
       <find>关于</find>
       <find>mazhuang.org</find>
@@ -129,10 +120,15 @@
       <find>本博客</find>
       <find>本博客模板常见问题 Q &amp; A</find>
       <find>mzlogin</find>
-      <find>blog-comments</find>
       <find>gitalk</find>
       <find>gitalk.ow</find>
       <find>site</find>
+      <find>丛先生dn</find>
+      <find>page.url</find>
+      <find>page</find>
+      <find>gitment</find>
+      <find>repo</find>
+      <find>blog-comments</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -176,6 +172,43 @@
             <path>
               <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_wiki" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,17 +259,18 @@
       <option name="presentableId" value="Default" />
       <updated>1590730706677</updated>
       <workItem from="1590730708750" duration="118000" />
-      <workItem from="1590731472376" duration="6756000" />
+      <workItem from="1590731472376" duration="8172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6874000" />
+    <option name="totallyTimeSpent" value="8290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-223" y="-1057" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21246007" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16613418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -253,7 +287,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32953367" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32331607" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1388601" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -410,17 +444,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/blog/airdrop-submit.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/comments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="99" column="28" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="28" />
+        <state relative-caret-position="574">
+          <caret line="99" column="47" lean-forward="true" selection-start-line="99" selection-start-column="47" selection-end-line="99" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="125" column="4" selection-start-line="125" selection-start-column="4" selection-end-line="125" selection-end-column="4" />
+        <state relative-caret-position="444">
+          <caret line="127" column="32" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="32" />
         </state>
       </provider>
     </entry>
