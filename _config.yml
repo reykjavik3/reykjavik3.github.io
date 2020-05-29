@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://reykjavik3.github.io/
+url: https://reykjavik3.github.io
 date_format: "ordinal"
 title: 顾南
 subtitle: "公众号：丛先生dn"
