@@ -116,15 +116,15 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: rekjavik
-    repo: blog-comments
+    owner: reykjavik
+    repo: reykjavik
     oauth:
         client_id: f2021a006d98dabdf97a
         client_secret: 31bff94e77bec55978378a9a0c26208a243be4b2
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: rekjavik
-    repo: blog-comments
+    owner: reykjavik
+    repo: reykjavik
     clientID: f2021a006d98dabdf97a
     clientSecret: 31bff94e77bec55978378a9a0c26208a243be4b2
 # 在使用其它评论组件时可点击显示 Disqus
