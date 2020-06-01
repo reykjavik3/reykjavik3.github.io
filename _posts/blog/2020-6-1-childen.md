@@ -1,3 +1,11 @@
+---
+layout: post
+title: 林深时见鹿，海蓝时见鲸，梦醒时见你
+categories: Blog
+description: 林深时见鹿，海蓝时见鲸，梦醒时见你。
+keywords: 林深时见鹿，海蓝时见鲸，梦醒时见你
+---
+
 有人说:
 林深时见鹿，海蓝时见鲸，梦醒时见你。
 
