@@ -1,14 +1,16 @@
 - name: Software Engineer Keywords
   keywords:
       - Java
-      - C++
       - Python
-      - Design Patterns
+      - go
 
 - name: Mobile Developer Keywords
   keywords:
-      - Android
-      - Reverse Engineering
+      - java
+      - mysql
+      - dubbo
+      - redis
+      - kafka
 
 - name: Windows Developer Keywords
   keywords:
@@ -16,4 +18,4 @@
       - DuiLib
       - WTL
       - COM
-      - WinDbg
+
