@@ -74,8 +74,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/jvm/2020-6-15-garbage-collection-algorithom.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="696">
-                <caret line="195" column="41" selection-start-line="195" selection-start-column="41" selection-end-line="195" selection-end-column="41" />
+              <first_editor relative-caret-position="247">
+                <caret line="52" selection-start-line="52" selection-end-line="52" />
               </first_editor>
               <second_editor />
             </state>
@@ -334,18 +334,18 @@
       <workItem from="1591670309233" duration="1161000" />
       <workItem from="1591754610294" duration="1992000" />
       <workItem from="1592210475966" duration="200000" />
-      <workItem from="1592210722011" duration="2439000" />
+      <workItem from="1592210722011" duration="2683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24517000" />
+    <option name="totallyTimeSpent" value="24761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-223" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23642172" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23642172" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -362,7 +362,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32953367" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.12124352" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.04041451" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -609,8 +609,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/jvm/2020-6-15-garbage-collection-algorithom.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="696">
-            <caret line="195" column="41" selection-start-line="195" selection-start-column="41" selection-end-line="195" selection-end-column="41" />
+          <first_editor relative-caret-position="247">
+            <caret line="52" selection-start-line="52" selection-end-line="52" />
           </first_editor>
           <second_editor />
         </state>
