@@ -192,3 +192,5 @@ compaction >= copying > marking > sweeping
 而年老代被GC时对象存活率可能会很高，而且假定可用剩余空间不太多，这样copying算法就不太合适，于是更可能选用另两种算法，特别是不用移动对象的mark-sweep算法。
 
 不过HotSpot VM中除了CMS之外的其它收集器都是会移动对象的，也就是要么是copying、要么是mark-compact的变种。
+
+这一篇写了好久，参考了一些垃圾算法的数据和文献，下一篇想写hotspot的垃圾收集的细节，和hotspot中的垃圾数据器
