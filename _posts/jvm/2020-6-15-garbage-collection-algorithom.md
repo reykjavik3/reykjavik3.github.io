@@ -12,7 +12,7 @@ keywords: jvm,垃圾回收
 
 1 开发者可能过早的回收依然在引用的对象，这种情况将引发悬挂指针问题。
 
-![image-20200614131611966](/Users/licongrong/Library/Application Support/typora-user-images/image-20200614131611966.png)
+![Image text](https://github.com/reykjavik3/reykjavik3.github.io/blob/master/images/jvm/image-20200614131611966.png)
 
 2 开发者可能在程序将对象使用完毕之后未将对象释放，从而导致内存泄漏；
 

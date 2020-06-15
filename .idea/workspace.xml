@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b33ab42-d5e4-4f98-8262-73f265f18780" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9b33ab42-d5e4-4f98-8262-73f265f18780" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,12 +72,22 @@
         <entry file="file://$PROJECT_DIR$/_posts/jvm/2020-6-15-garbage-collection-algorithom.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-107">
-                <caret line="81" column="22" lean-forward="true" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+              <first_editor relative-caret-position="204">
+                <caret line="14" column="120" lean-forward="true" selection-start-line="14" selection-start-column="120" selection-end-line="14" selection-end-column="120" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/jvm/image-20200614131611966.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/blog/3w-programmer.jpeg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -90,27 +98,6 @@
                 <caret line="9" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/about.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="405">
-                <caret line="27" column="99" selection-start-line="27" selection-start-column="99" selection-end-line="27" selection-end-column="99" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/skills.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -270,6 +257,23 @@
             <path>
               <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reykjavik3.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reykjavik3.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -293,6 +297,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/jvm" />
       <recent name="$PROJECT_DIR$/_posts/jvm" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_posts" />
@@ -327,17 +332,18 @@
       <workItem from="1591670309233" duration="1161000" />
       <workItem from="1591754610294" duration="1992000" />
       <workItem from="1592210475966" duration="200000" />
-      <workItem from="1592210722011" duration="1856000" />
+      <workItem from="1592210722011" duration="2133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23934000" />
+    <option name="totallyTimeSpent" value="24211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-223" y="-1057" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1341853" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23642172" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -354,7 +360,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32953367" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.103626944" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24870466" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -386,7 +392,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2012-03-15-gecko-plugin.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2012-03-22-vba-knowledge.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2012-04-05-learn-python-practise.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2012-04-08-learn-python-practise.md" />
@@ -439,9 +444,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/blog/1024-gold.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/blog/3w-programmer.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
@@ -596,11 +598,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/jvm/image-20200614131611966.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/blog/3w-programmer.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/jvm/2020-6-15-garbage-collection-algorithom.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-107">
-            <caret line="81" column="22" lean-forward="true" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+          <first_editor relative-caret-position="204">
+            <caret line="14" column="120" lean-forward="true" selection-start-line="14" selection-start-column="120" selection-end-line="14" selection-end-column="120" />
           </first_editor>
           <second_editor />
         </state>
