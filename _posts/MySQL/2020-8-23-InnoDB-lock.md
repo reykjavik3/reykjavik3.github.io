@@ -1,6 +1,6 @@
 ---
 layout: post
-title: java虚拟机垃圾收集
+title: InnoDB中的锁机制解析
 categories: MySQL
 description: InnerDB的锁
 keywords: InnerDB,Lock
@@ -116,7 +116,7 @@ INSERT INTO `fescar`.`lk_t`(`id`, `inv`, `item_id`, `gunan`) VALUES (25, 25, '25
   找到id=10这一行，加Next-key Lock(5,10],因为实在id上的等值查询，退化为行锁，只加在id=10这一行；
 查找到id=15停止；因此next-key lock(10,15]	
 
-今天先聊这么多 ，明天继续写下级，近期把挖的坑都填上
+今天先聊这么多 ，明天继续写下级，近期把挖的坑都填上C
     
 
 
