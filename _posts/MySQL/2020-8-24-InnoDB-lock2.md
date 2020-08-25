@@ -175,7 +175,7 @@ MySQL关于自增锁的参数innodb_autoinc_lock_mode有三个值
  |insert into lk_t values(null,3,3,3);||
   |insert into lk_t values(null,4,4,4);||
  ||create table lk_t2 like lk_t|
- |insert into lk_t values(null,6,6,6)|insert into lk_t2(inv,item_id,gunan) select inv,item_id,gunan from lk_t|
+ |insert into lk_t2 values(null,6,6,6)|insert into lk_t2(inv,item_id,gunan) select inv,item_id,gunan from lk_t|
  
  如果sessionB申请后就释放可能是这样的
  
@@ -330,7 +330,7 @@ sessionB检测到死锁回滚，sessionA拿到id=5的写锁，执行成功
 
 # 小结
 今天承接上一篇，和大家聊了InnoDB加个行锁的小细节，聊了表锁中的自增锁和意向锁，之后我们学习了InnoDB锁的具体表现形式；
-最后我们学习了死锁的定义和如何避免死锁以及如何减小行锁的影响
+最后我们学习了死锁的定义和如何避免死锁以及如何减小行锁的影响；
 
 我们下期见！
 
